@@ -13,11 +13,6 @@ The fronted theme is an inspiration from [Start Bootstrap Freelancer theme](http
 This repo can be used as a starting point for developing a production-ready Django personal website with deployment to
 Heroku. I am releasing the full source code for the site so that others may benefit from it.
 
-## Live website
-
-To view the website demo, please visit [vladislavalerievich.herokuapp.com](https://vladislavalerievich.herokuapp.com/).
-
-> **_NOTE:_**  The web application may take a few seconds to start up.
 
 ## Local development
 
